@@ -5,6 +5,7 @@ An AI-powered Resume Analyzer built using **Streamlit**, **Python**, and **Groq 
 This app helps users evaluate their resumes with ATS scoring, skill extraction, experience analysis, and personalized improvement suggestions.
 
 ---
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/17217a58-db94-447d-a81c-0d65473a34e0" />
 
 ## 🚀 Live Features
 
