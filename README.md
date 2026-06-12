@@ -1,4 +1,5 @@
 # 📄 AI Resume Analyzer
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9fe08d9f-6d84-4541-a211-640ec90e21f3" />
 
 An AI-powered Resume Analyzer built using **Streamlit**, **Python**, and **Groq LLM (LLaMA 3.1)**.  
 This app helps users evaluate their resumes with ATS scoring, skill extraction, experience analysis, and personalized improvement suggestions.
