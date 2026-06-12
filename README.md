@@ -30,13 +30,4 @@ This app helps users evaluate their resumes with ATS scoring, skill extraction, 
 
 ## 📸 Project Preview
 
-> Upload your resume and get instant AI feedback with professional analysis.
-
----
-
-## ⚙️ Installation & Setup
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/ai-resume-analyzer.git
-cd ai-resume-analyzer
+> Upload your resume and get instant AI feedback with professional analysis
